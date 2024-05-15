@@ -1,3 +1,4 @@
+<img src="https://github.com/elsiip/elsiip/assets/110887523/025da00b-619a-4e7a-932a-083a8d27dd52.png" alt="my banner">
 ### Hi there 👋
 
 <!--
