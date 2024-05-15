@@ -1,5 +1,12 @@
+<p align="center">
 <img src="https://github.com/elsiip/elsiip/assets/110887523/025da00b-619a-4e7a-932a-083a8d27dd52.png" alt="my banner">
-### Hi there 👋
+
+<img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+
+### Hi there, I'm Elsi 👋
+
+#### I'm a Front End Engineer 
+</p>
 
 <!--
 **elsiip/elsiip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
