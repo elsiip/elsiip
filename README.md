@@ -1,7 +1,6 @@
 <img src="https://github.com/elsiip/elsiip/assets/110887523/025da00b-619a-4e7a-932a-083a8d27dd52.png" alt="my banner">
 
 <h2 align="center">Hi there, I'm Elsi 👋</h2>
-
 <h3 align="center">I'm a Front End Engineer 💻, and Ui/UX Designer 🎨!</h3>
 
 I thrive on the journey of crafting captivating web experiences, relishing both the intricacies of front-end development and the artistry of UI/UX design. Exploring the nuances of code and understanding user behavior are my passions.
