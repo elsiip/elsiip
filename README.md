@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/elsiip/elsiip/assets/110887523/025da00b-619a-4e7a-932a-083a8d27dd52.png" alt="my banner">
 
-<img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20There!&height=100&section=header"/>
 
 ### Hi there, I'm Elsi 👋
 
