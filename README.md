@@ -1,12 +1,18 @@
-<p align="center">
 <img src="https://github.com/elsiip/elsiip/assets/110887523/025da00b-619a-4e7a-932a-083a8d27dd52.png" alt="my banner">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Hi%20There!&height=100&section=header"/>
+<h2 align="center">Hi there, I'm Elsi 👋</h2>
 
-### Hi there, I'm Elsi 👋
+<h3 align="center">I'm a Front End Engineer 💻, and Ui/UX Designer 🎨!</h3>
 
-#### I'm a Front End Engineer 
-</p>
+I thrive on the journey of crafting captivating web experiences, relishing both the intricacies of front-end development and the artistry of UI/UX design. Exploring the nuances of code and understanding user behavior are my passions.
+
+### 🤝 Connect with me:
+
+<a href="https://www.linkedin.com/in/elsi-p/"><img align="left" src="https://github.com/elsiip/elsiip/assets/110887523/9df33e26-aafb-42d2-8831-937e10827db0" alt="Elsi | LinkedIn" width="21px"/></a>
+<a href="https://instagram.com/3101_els"><img align="left" src="https://github.com/elsiip/elsiip/assets/110887523/f3dada26-5120-45e3-b11f-8f0713f02243" alt="Elsi | Instagram" width="21px"/></a>
+</br>
+- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
 
 <!--
 **elsiip/elsiip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
