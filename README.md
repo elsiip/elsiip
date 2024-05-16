@@ -11,7 +11,7 @@ I thrive on the journey of crafting captivating web experiences, relishing both 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-### 🔭 I’m currently working on 
+### 🔭 I’m currently internship on 
 - ADS Digital Partner - Frontend Engineer
 
 ### 🌱 I’m currently learning
