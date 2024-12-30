@@ -12,11 +12,15 @@ I thrive on the journey of crafting captivating web experiences, relishing both 
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
 ### 🔭 I’m currently internship on 
+- Big IO - Fullstack Developer
 - ADS Digital Partner - Frontend Engineer & Surveyor
+- Diskominfo Kab. Malang - Network Administrator Intern
 
 ### 🌱 I’m currently learning
 - ReactJS
 - NextJS
+- ExpressJS
+- Java Spring Boot
 
 ## 💼 Technical Skills
 
@@ -44,6 +48,12 @@ I thrive on the journey of crafting captivating web experiences, relishing both 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=#00C7B7)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+</br>
+
+![ExpressJS](https://img.shields.io/badge/express-%23F24E1E.svg?style=for-the-badge&logo=express&logoColor=white)
+![Java Spring Boot](https://img.shields.io/badge/springboot-%23000000.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![Swagger](https://img.shields.io/badge/swagger-%232C8EBB.svg?style=for-the-badge&logo=swagger&logoColor=white)
 
 ## 📈 GitHub Stats 
 
