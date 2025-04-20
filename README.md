@@ -17,6 +17,8 @@ I thrive on the journey of crafting captivating web experiences, relishing both 
 - Diskominfo Kab. Malang - Network Administrator Intern
 
 ### 🌱 I’m currently learning
+- Python
+- Machine Learning
 - ReactJS
 - NextJS
 - ExpressJS
@@ -54,6 +56,7 @@ I thrive on the journey of crafting captivating web experiences, relishing both 
 ![ExpressJS](https://img.shields.io/badge/express-%23F24E1E.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Java Spring Boot](https://img.shields.io/badge/springboot-%23000000.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Swagger](https://img.shields.io/badge/swagger-%232C8EBB.svg?style=for-the-badge&logo=swagger&logoColor=white)
+![Python](https://img.shields.io/badge/python-%23F05033.svg?style=for-the-badge&logo=swagger&logoColor=white)
 
 ## 📈 GitHub Stats 
 
