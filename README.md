@@ -1,6 +1,6 @@
 <img src="https://github.com/elsiip/elsiip/assets/110887523/025da00b-619a-4e7a-932a-083a8d27dd52.png" alt="my banner">
 
-<h2 align="center">Hi there, I'm Elsi 👋 <br>I'm a Frontend Engineer 💻, and UI/UX Designer 🎨!</h2>
+<h2 align="center">Hi there, I'm Elsi 👋 <br>I'm a Fullstack Developer 💻!</h2>
 
 I thrive on the journey of crafting captivating web experiences, relishing both the intricacies of front-end development and the artistry of UI/UX design. Exploring the nuances of code and understanding user behavior are my passions.
 
@@ -11,14 +11,14 @@ I thrive on the journey of crafting captivating web experiences, relishing both 
 </br>
 - 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-### 🔭 I’m currently internship on 
+### 🔭 I have previously interned and worked in various roles
 - Big IO - Fullstack Developer
 - ADS Digital Partner - Frontend Engineer & Surveyor
 - Diskominfo Kab. Malang - Network Administrator Intern
 
 ### 🌱 I’m currently learning
 - Python
-- Machine Learning
+- PHP
 - ReactJS
 - NextJS
 - ExpressJS
